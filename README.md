@@ -26,6 +26,12 @@ Desktop App Converter [configured ](https://msdn.microsoft.com/en-us/windows/uwp
 
 1. Click **"Finish"**. Click **"Yes"**. Click **"OK"**.
 
-1. Double click on AppxOut\CentennialTest\CentennialTest.appx. Click **"install"**.
+1. Double click on AppxOut\CentennialTest\CentennialTest.appx. Click **"Install"**.
 
- 
+1. Click **"launch"**. Output should appear as:
+
+ ![](images/uwp.png "")
+
+1. Run Win32 version by double clicking on **Release\CentennialTest.exe**. Output should appear as:
+
+ ![](images/not-uwp.png "")
