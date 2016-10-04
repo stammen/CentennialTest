@@ -28,7 +28,7 @@ Desktop App Converter [configured ](https://msdn.microsoft.com/en-us/windows/uwp
 
 1. Double click on AppxOut\CentennialTest\CentennialTest.appx. Click **"Install"**.
 
-1. Click **"launch"**. Output should appear as:
+1. Click **"Launch"**. Output should appear as:
 
  ![](images/uwp.png "")
 
