@@ -7,6 +7,8 @@ Windows 10 Anniversary Update (10.0.14393.0 and later) Pro or Enterprise edition
 
 Visual Studio 2015 (Update 3 recommended) with **Universal Windows App Development Tools and Windows 10 Tools and SDKs** [installed](https://msdn.microsoft.com/en-us/library/e2h7fzkw.aspx)
 
+NSIS [installed](http://nsis.sourceforge.net/Download) and in your path 
+
 Desktop App Converter [installed](https://www.microsoft.com/en-us/store/p/desktopappconverter/9nblggh4skzw)
 Desktop App Converter [configured ](https://msdn.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-run-desktop-app-converter)
 
