@@ -12,7 +12,7 @@ NSIS [installed](http://nsis.sourceforge.net/Download) and in your path
 Desktop App Converter [installed](https://www.microsoft.com/en-us/store/p/desktopappconverter/9nblggh4skzw)
 Desktop App Converter [configured ](https://msdn.microsoft.com/en-us/windows/uwp/porting/desktop-to-uwp-run-desktop-app-converter)
 
-##How to build and install AppX##
+## How to build and install AppX ##
 
 1. Right-click on build.bat and select **"Run as administrator"**
 
